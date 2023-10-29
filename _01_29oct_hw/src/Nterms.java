@@ -3,7 +3,7 @@ public class Nterms {
         int num=5;
         int sum=0;
         for (int i=1;i<=num;i++){
-            sum+=1;
+            sum+=i;
         }
         System.out.println(sum);}
 }
